@@ -17,7 +17,7 @@
                                 <th>Título</th>
                                 <th>Quant.</th>
                                 <th>Autor</th>
-                                <th>Autor</th>
+                                <th>Matéria</th>
                                 <th>Editora</th>
                                 <th>Foto</th>
                                 <th>Descrição</th>
